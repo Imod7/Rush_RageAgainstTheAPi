@@ -1,7 +1,7 @@
 # Description
 "Rage Against the Api" is a rush project at Codam College in which we were asked to create an application that finds the most efficient route from start to end point using RATP metro lines. We were suggested to use the API at navitia.io to get all the necessary data that we needed to solve this path finding problem.
 
-For more details, you can find the subject here : [subject.pdf](https://github.com/Imod7/Rush_RageAgainstTheAPi/subject.pdf)
+For more details, you can find the subject here : [subject.pdf](https://github.com/Imod7/Rush_RageAgainstTheAPi/blob/master/subject.pdf)
 
 # Challenges
 A Rush project at Codam means that we have roughly one weekend to complete it. In this limited amount of time we had to accomplish the following :
